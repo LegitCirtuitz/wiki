@@ -1,0 +1,26 @@
+site_name: My Tech Wiki
+site_description: A static wiki built with MkDocs
+
+theme:
+  name: material
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to dark mode
+    - scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/weather-night
+        name: Switch to light mode
+
+nav:
+  - Home: index.md
+  - About: about.md
+  - Setup Guide: setup.md
+
+plugins:
+  - search
