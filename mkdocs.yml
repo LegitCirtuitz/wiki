@@ -19,8 +19,6 @@ theme:
 
 nav:
   - Home: index.md
-  - About: about.md
-  - Setup Guide: setup.md
 
 plugins:
   - search
