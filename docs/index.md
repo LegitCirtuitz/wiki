@@ -1,8 +1,4 @@
-# Welcome to the Wiki
+# Hello!
+This wiki is for **My** Open Source projects!
+Go check them out :)!
 
-This wiki is built using **MkDocs** and the Material theme.
-
-## Features
-* Markdown support
-* Automatic sidebar navigation
-* Built-in Dark/Light mode toggle
